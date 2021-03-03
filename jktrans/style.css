@@ -1,0 +1,71 @@
+body{
+    font-family: 'nunito';
+    color: #000;
+}
+
+.judul{
+background: #d63031;
+padding: 10px;
+text-align: center;
+
+}
+
+.judul h1,h2,h3{
+height: 15px;
+color: #fff;
+}
+h4{
+    font-size: 24px;
+}
+
+a{
+/*color: #fff;*/
+padding: 5px;
+text-decoration: none; 
+}
+
+.login{
+    border: 2px solid #ddd;
+    box-shadow: 2px 3px #eee;
+    width: 20%;
+    height: 300px;
+    margin-top: 100px;
+}
+.form{
+    width: 80%;
+    margin: 7px auto;
+    text-align: center;
+}
+
+.table{
+border-collapse: collapse;
+}
+
+table.table tr th , table.table tr td{
+padding: 10px 20px ;
+}
+
+.btn{
+    background-color: #d63031;
+    color: #fff;
+    padding: 5px 25px;
+    text-decoration: none;
+    border-radius: 25px;
+    border: 2px solid #d63031;
+    cursor: pointer;
+}
+.btn-x{
+    background-color: #fff;
+    color: #d63031;
+    padding: 5px 15px;
+    text-decoration: none;
+    border-radius: 25px;
+    border: 2px solid #d63031;
+}
+.bg-table{
+    border: 2px solid #eee;
+    padding: 20px ;
+    box-shadow: 2px 3px rgba(0, 0, 0,.1);
+    width: 60%;
+
+}
